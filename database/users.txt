@@ -1,0 +1,6 @@
+admin, koushik@gmail.com, 12345, koushik
+admin, admin@gmail.com, 12345, admin
+admin, fahad@gmail.com, 12345, Fahad
+user, jim@gmail.com, 12345, Jim
+user, mahin@gmail.com, 12345, Mahin
+user, koushiknagshuvo@gmail.com, 112233, koushiknagshuvo
